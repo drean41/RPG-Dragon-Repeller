@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-Jogo de RPG simples pra treinar Javascript onde o objetivo é vencer o Dragão. Tem saúde e ouro limitado, loja pra comprar mais, monstro com nível de força menor pra ganhar ouro e um Easter Egg. Feito no curso TheFreeCodeCamp.
+Jogo de RPG simples pra treinar Javascript onde o objetivo é vencer o Dragão. Tem saúde e ouro limitado, loja pra comprar mais, monstros que ao derrotar, você ganha ouro e um Easter Egg. Feito no curso TheFreeCodeCamp.
 
 [Para visualizar o projeto com github pages](https://drean41.github.io/RPG-Dragon-Repeller/)
 
