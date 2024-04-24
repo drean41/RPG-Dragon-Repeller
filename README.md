@@ -21,7 +21,6 @@ Jogo de RPG simples pra treinar Javascript onde o objetivo é vencer o Dragão. 
 ### Fucionalidades do Projeto
 
 - [x] Responsividade
-- [ ] Idiomas
 
 ### Autor
 
